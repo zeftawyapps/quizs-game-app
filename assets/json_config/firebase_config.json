@@ -1,18 +1,18 @@
 {
 "firebaseConfig": {
     "dev": {
-        "apiKey": "AIzaSyBYzJ-FnwaxE-w1kVE7yFkjMr5In6hcuYA",
-        "appId": "1:1045105037385:android:6cfd2e8972255a67566f98",
-        "messagingSenderId": "63291076331",
-        "projectId": "islamicqustions",
-        "storageBucket": "islamicqustions.appspot.com"
+        "apiKey": "AIzaSyBYzJ ",
+        "appId": "1:10451050373"  ,
+        "messagingSenderId": "6",
+        "projectId": "quiz",
+        "storageBucket": "qustions.appspot.com"
     } ,
     "prod": {
-        "apiKey": "AIzaSyBYzJ-FnwaxE-w1kVE7yFkjMr5In6hcuYA",
-        "appId": "1:1045105037385:android:6cfd2e8972255a67566f98",
-        "messagingSenderId": "63291076331",
-        "projectId": "islamicqustions",
-        "storageBucket": "islamicqustions.appspot.com"
+        "apiKey": "AIzaSyBYzJ ",
+        "appId": "1:10451050373"  ,
+        "messagingSenderId": "6",
+        "projectId": "quiz",
+        "storageBucket": "qustions.appspot.com"
     }
 
 }

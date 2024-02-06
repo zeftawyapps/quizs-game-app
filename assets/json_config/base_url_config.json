@@ -1,8 +1,8 @@
 {
 "baseUrls": {
 
-    "remote":  "https://europe-west3-islamicqustions.cloudfunctions.net/apiQuiz" ,
-    "local": "http://127.0.0.1:5001/islamicqustions/europe-west3/apiQuiz/"
+    "remote":  "https://europe-west3-" ,
+    "local": "http://127.0.0.1:5001/"
 
 }
 }
