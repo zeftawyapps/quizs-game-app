@@ -1,4 +1,4 @@
-# islamic_quizs_game
+# quizs game app 
 
 A new Flutter project.
 
