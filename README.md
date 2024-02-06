@@ -13,7 +13,7 @@ The app is available for both Android and iOS devices.
 #the images for app :
  ![splash screen ](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg){width="XXpx" height="YYpx"}
 
- ![My quiz app screenshot](https://user-images.githubusercontent.com/your_username/your_repo/123456789/your_image.png){width="500px" height="300px"}
+ ![My quiz app screenshot](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg){width="500px" height="300px"}
 
 
 #the images for dashboard:
