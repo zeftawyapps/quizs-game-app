@@ -69,9 +69,9 @@ and change the base url in file  assets/json_config/base_url_config.json
 }
 ``` 
 2-  if you want to custom your app yuo shold to douwload this reposatories : 
-   - user model :  [](https://github.com/zeftawyapps/users_module)
-   - zeftawyapps/quize-module : [](https://github.com/zeftawyapps/quize-module)
-   - coloud functions :   [](https://github.com/zeftawyapps/quiz-cloud-function-backend)
+   -  [user model :](https://github.com/zeftawyapps/users_module)
+   - [ zeftawyapps/quize-module :](https://github.com/zeftawyapps/quize-module)
+   - [coloud functions :](https://github.com/zeftawyapps/quiz-cloud-function-backend)
  
 
 
