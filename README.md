@@ -34,6 +34,7 @@ To start in this app you should to change the app android and ios packages name 
 1- log in to firebase and create new project and add anroind and ios app and dowload the google_service.json file 
 2- to run the firebase in web app you should to change the firebase options in the file  #assets/json_config/firebase_config.json  , 
 ```markdown
+``` json
 { 
 "firebaseConfig": {
     "dev": {
