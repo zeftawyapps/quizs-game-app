@@ -32,7 +32,7 @@ dashboard iamge
 # Get start : 
 To start in this app you should to change the app android and ios packages name aftar you download the code  then : 
 1- log in to firebase and create new project and add anroind and ios app and dowload the google_service.json file 
-2- to run the firebase in web app you should to change the firebase options in the file  assets/json_config/firebase_config.json  , 
+2- to run the firebase in web app you should to change the firebase options in the file  #assets/json_config/firebase_config.json  , 
 ```markdown
 { 
 "firebaseConfig": {
@@ -50,6 +50,19 @@ To start in this app you should to change the app android and ios packages name 
         "projectId": "quiz",
         "storageBucket": "qustions.appspot.com"
     }
+
+}
+}
+```
+
+and change the base url in file  assets/json_config/base_url_config.json
+``` markdown
+``` json
+{
+"baseUrls": {
+
+    "remote":  "https://europe-west3-" ,
+    "local": "http://127.0.0.1:5001/"
 
 }
 }
