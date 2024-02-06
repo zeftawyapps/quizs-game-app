@@ -12,7 +12,7 @@ Additional information:
 * The app allows users to track their progress and see their scores.
 * The app is available for both Android and iOS devices.
 
-## Getting Started
+## the images 
 
 app iamges
 
@@ -27,3 +27,16 @@ dashboard iamge
 ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/d3.png) 
 
 ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/d4.png) 
+
+
+# Get start : 
+To start in this app you should to change the app android and ios packages name aftar you download the code  then : 
+1- # This is a Python code block in Markdown
+
+def my_function(x):
+  """This function returns the square of a number."""
+  return x * x
+
+result = my_function(5)
+print(result)  # Output: 25
+
