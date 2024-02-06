@@ -34,10 +34,43 @@ To start in this app you should to change the app android and ios packages name 
 1- # This is a Python code block in Markdown
  ## Code Example
 
-```javascript
-var i = 1;
 
-console.log("i =", i);  // Output: i = 1
+
+  **To display the code in a .md file, follow these steps:**
+
+1. **Open your .md file in a text editor.** You can use any text editor that supports Markdown syntax, such as:
+   - Visual Studio Code
+   - Atom
+   - Notepad++
+   - Sublime Text
+   - Typora
+
+2. **Paste the following code into the file:**
+
+   ```markdown
+   ## Code Example
+
+   ```javascript
+   var i = 1;
+
+   console.log("i =", i);  // Output: i = 1
+   ```
+   ```
+
+3. **Save the file.**
+
+4. **View the rendered code:**
+   - If you're using a Markdown previewer within your text editor, you should see the code displayed with syntax highlighting.
+   - If you're viewing the .md file directly, it might appear as plain text. To see the rendered code with proper formatting, you'll need to open it in a Markdown viewer or a platform that supports Markdown rendering (e.g., GitHub, GitLab, many blogging platforms).
+
+**Key points:**
+
+- **Fenced code blocks:** The code is enclosed within triple backticks (```) on both ends, indicating a code block in Markdown.
+- **Language identifier:** The line right after the opening backticks (`javascript`) specifies the programming language, allowing for syntax highlighting.
+- **Indentation:** Indentation within the code block is preserved for readability.
+
+By following these steps, you'll have successfully added the code to your .md file and it will display with proper formatting when rendered.
+
 
 
 
