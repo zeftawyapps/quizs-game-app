@@ -11,7 +11,8 @@ The app allows users to track their progress and see their scores.
 The app is available for both Android and iOS devices.
 
 #the images for app :
-![splash srceen](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg){width="500px" height="1000px"}
+ ![splash screen ](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg){width="XXpx" height="YYpx"}
+
 #the images for dashboard:
 
 ## Getting Started
