@@ -14,7 +14,7 @@ Additional information:
 
 ## the images 
 
-app iamges
+app iamges 
 
 ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg) ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/Screenshot_2023-11-26-22-25-58-97_42c17d524df30ba81cdddad866a78249.jpg) ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/Screenshot_2023-11-26-22-26-26-11_42c17d524df30ba81cdddad866a78249.jpg) ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/Screenshot_2023-11-26-22-26-23-09_42c17d524df30ba81cdddad866a78249.jpg) 
 
