@@ -48,26 +48,7 @@ To start in this app you should to change the app android and ios packages name 
 2. **Paste the following code into the file:**
 
    ```markdown
-   ## Code Example
-
-   ```javascript
-   var i = 1;
-
-   console.log("i =", i);  // Output: i = 1
    ```
-   ```
-
-  ```markdown
-   ## Code Example
-
-   ```vb
-   var i = 1;
-
-   console.log("i =", i);  // Output: i = 1
-   ```
-   ```
-
-
 
 
 
