@@ -24,6 +24,6 @@ dashboard iamge
 
 ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/d2.png) 
 
-![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/Screenshot_2023-11-26-22-26-23-09_42c17d524df30ba81cdddad866a78249.jpg) 
+![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/d3.png) 
 
 ![](https://github.com/zeftawyapps/quizs-game-app/blob/master/app%20image/d4.png) 
