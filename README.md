@@ -31,19 +31,34 @@ dashboard iamge
 
 # Get start : 
 To start in this app you should to change the app android and ios packages name aftar you download the code  then : 
-1- # This is a Python code block in Markdown
- ## Code Example
+1- log in to firebase and create new project and add anroind and ios app and dowload the google_service.json file 
+2- to run the firebase in web app you should to change the firebase options in the file  assets/json_config/firebase_config.json  , 
+```markdown
+{
+"firebaseConfig": {
+    "dev": {
+        "apiKey": "AIzaSyBYzJ ",
+        "appId": "1:10451050373"  ,
+        "messagingSenderId": "6",
+        "projectId": "quiz",
+        "storageBucket": "qustions.appspot.com"
+    } ,
+    "prod": {
+        "apiKey": "AIzaSyBYzJ ",
+        "appId": "1:10451050373"  ,
+        "messagingSenderId": "6",
+        "projectId": "quiz",
+        "storageBucket": "qustions.appspot.com"
+    }
+
+}
+}
+```
+2- in file lib/app_configs.dart yuo change the app filrebase 
 
 
 
-  **To display the code in a .md file, follow these steps:**
 
-1. **Open your .md file in a text editor.** You can use any text editor that supports Markdown syntax, such as:
-   - Visual Studio Code
-   - Atom
-   - Notepad++
-   - Sublime Text
-   - Typora
 
 2. **Paste the following code into the file:**
 
