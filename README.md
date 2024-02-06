@@ -1,4 +1,4 @@
-## Quiz game 
+## Quiz game  
 
 This application is a question and answer application that contains a control panel for adding questions and a mobile application to display questions to the user. The user solves the questions and displays the answer. It also contains AdMob ads and the possibility of payment.
 
