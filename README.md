@@ -68,16 +68,11 @@ and change the base url in file  assets/json_config/base_url_config.json
 }
 }
 ``` 
-2- in file lib/app_configs.dart yuo change the app filrebase 
-
-
-
-
-
-2. **Paste the following code into the file:**
-
-   ```markdown
-   ```
+2-  if you want to custom your app yuo shold to douwload this reposatories : 
+1- user model :  [](https://github.com/zeftawyapps/users_module)
+2   zeftawyapps/quize-module : [](https://github.com/zeftawyapps/quize-module)
+3 coloud functions :   [](https://github.com/zeftawyapps/quiz-cloud-function-backend)
+ 
 
 
 
