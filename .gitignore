@@ -9,6 +9,7 @@
 .history
 .svn/
 migrate_working_dir/
+assets/json_config ignor/
 
 # IntelliJ related
 *.iml
