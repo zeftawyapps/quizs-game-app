@@ -32,6 +32,7 @@ dashboard iamge
 # Get start : 
 To start in this app you should to change the app android and ios packages name aftar you download the code  then : 
 1- # This is a Python code block in Markdown
+ ` # This is a Python code block in Markdown
 
 def my_function(x):
   """This function returns the square of a number."""
@@ -39,4 +40,5 @@ def my_function(x):
 
 result = my_function(5)
 print(result)  # Output: 25
+`
 
