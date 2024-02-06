@@ -32,9 +32,13 @@ dashboard iamge
 # Get start : 
 To start in this app you should to change the app android and ios packages name aftar you download the code  then : 
 1- # This is a Python code block in Markdown
- ` # This is a Python code block in Markdown
+ ## Code Example
 
- ` var i = 1 ; 
- 
- i = 1 : ` 
+```javascript
+var i = 1;
+
+console.log("i =", i);  // Output: i = 1
+
+
+
 
