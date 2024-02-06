@@ -29,13 +29,13 @@ class AdHelper {
       if (Platform.isAndroid) {
         return "/6499/example/interstitial";
       } else if (Platform.isIOS) {
-        return "ca-app-pub-3940256099942544/4411468910";
+        return "ca-app-pub-3940256099942";
       } else {
         throw new UnsupportedError("Unsupported platform");
       }
     } else {
       if (Platform.isAndroid) {
-        return "ca-app-pub-5460723757552584/9352302916";
+        return "ca-app-pub-546072375755 ";
       } else if (Platform.isIOS) {
         return "ca-app-pub-3940256099942544/4411468910";
       } else {
