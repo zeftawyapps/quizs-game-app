@@ -14,5 +14,5 @@ Additional information:
 
 ## Getting Started
 
-![](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg ).{width="500px" height="1000px"}
+![](app image/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg).{width="500px" height="1000px"}
  
