@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63291076331",
+    "project_id": "islamicqustions",
+    "storage_bucket": "islamicqustions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63291076331:android:6c0358c776fd89e9a298ae",
+        "android_client_info": {
+          "package_name": "com.z_apps.islamicQgames.islamic_quizs_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63291076331-lr2uq30r5g1a1e6blpq9o88965ap3tf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX25j82AXLwarCpzmhckEp6EVXsYZqJJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63291076331-7esf71j344cuqi9k6nca20qr1i9b2uug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
