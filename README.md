@@ -14,7 +14,5 @@ Additional information:
 
 ## Getting Started
 
-![Image description](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg){width="500px" height="1000px"}
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](https://github.com/zeftawyapps/quizs-game-app/blob/master/quiz/Screenshot_2023-10-17-11-57-18-43_42c17d524df30ba81cdddad866a78249.jpg){width="500px" height="1000px"}
+ 
