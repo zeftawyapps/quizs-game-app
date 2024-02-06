@@ -34,11 +34,6 @@ To start in this app you should to change the app android and ios packages name 
 1- # This is a Python code block in Markdown
  ` # This is a Python code block in Markdown
 
-``def my_function(x):
-  """This function returns the square of a number."""
-  return x * x
-
-result = my_function(5)
-print(result)  # Output: 25 `` 
-`
+ ` var i = 1 ; 
+ i = 1 : ` 
 
